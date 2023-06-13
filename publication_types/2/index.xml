@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Joan C. Timoneda</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Joan C. Timoneda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Where In The World Is My Tweet: Detecting Irregular Removal Patterns On Twitter</title>
+      <link>/publication/plos_one/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/plos_one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Institutions as Signals: How Dictators Consolidate Power in Times of Crisis</title>
+      <link>/publication/institutions_signals/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/institutions_signals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Et Tu Brute: Low Wealth, Elite Cleavages and Authoritarian Replacement</title>
+      <link>/publication/et_tu_brute/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/et_tu_brute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cashing In: How Greater Wealth Motivates Elites to Democratize</title>
+      <link>/publication/cashing_in/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/cashing_in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of Fixed Effects Models in Panel Data With a Rare Events Dependent Variable: How the LPM Outperforms Logistic Regression in Small and Big Data</title>
+      <link>/publication/fixed_effects/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/fixed_effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error 404: How Executive Constraints Affect Online Censorship Strategies</title>
+      <link>/publication/censorship/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/censorship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Productivity Trap: How Economic Polarization Erodes Democracy</title>
+      <link>/publication/erosion/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/erosion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning With Big Data and Rare Events: A Novel Approach To Improve Prediction</title>
+      <link>/publication/machine_learning/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/machine_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
